@@ -1,6 +1,7 @@
-# EntregaSemana7
+# Entrega Semana 7
 
-Exposición sobre: Introducción a los protocolos de comunicación.
+Exposición sobre: Introducción a los protocolos de comunicación
+Link a Youtube: 
 
 ## Actividad para realizar
 Deberá averiguar sobre 3 protocolos de comunicación: Buetooth, WiFi y LoRa. Investigue sobre
