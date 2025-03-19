@@ -2,7 +2,7 @@
 
 Exposición sobre: Introducción a los protocolos de comunicación
 
-Link a Youtube: 
+Link a Youtube: https://youtu.be/47U4fHMWFA0
 
 ## Actividad para realizar
 Deberá averiguar sobre 3 protocolos de comunicación: Buetooth, WiFi y LoRa. Investigue sobre
