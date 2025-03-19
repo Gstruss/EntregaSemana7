@@ -1,6 +1,7 @@
 # Entrega Semana 7
 
 Exposición sobre: Introducción a los protocolos de comunicación
+
 Link a Youtube: 
 
 ## Actividad para realizar
